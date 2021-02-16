@@ -12,8 +12,8 @@
     "counter_channel": "804195383647141888",
     "counter_number_reach": 5,
     
-    "blacklisted": ["ID 1","ID 2","ID 3"],
-    "whitelisted": ["ID 1","ID 2","ID 3"],
+    "blacklisted": [""],
+    "whitelisted": [""],
     
     "ignore_channel_toggle": true,
     "ignore_channel_id": ["804195383647141888"],
@@ -45,7 +45,4 @@
     "bot_status": ["<help | #NemesisOT"],
     "status_change_interval": "2",
     
-    "welcome_message_enabled": false,
-    "welcome_message_server": "SERVER ID HERE",
-    "welcome_message_channel": "CHANNEL ID HERE"
-}
+

@@ -1,12 +1,12 @@
 {
-    "token": "ODEwNjQ2MjIzNzg1Njg5MTQw.YCmrIA.MLc3z0CLbNvb0kBre_vY6HBuA0M",
-    "prefix": "<",
-    "bot_name": "Nemesis Patrol",
-    "main_color": "0x2c95e6",
-    "bot_owners": ["Zylux"],
+    "token": "YOUR_TOKEN",
+    "prefix": "<", // Use your desired prefix
+    "bot_name": "Nemesis Patrol", // Add your bot's name here
+    "main_color": "RED", // You can change the color
+    "bot_owners": ["Zylux"], // you may not edit this.
 
     "anti_bad_word_toggle": true,
-    "anti_bad_words": ["nibba",  "nigger",  "nigga",  "pussy", "cunt", "retard"],
+    "anti_bad_words": ["nibba",  "nigger",  "nigga",  "pussy", "cunt", "retard"], // You may add more words by repeating the process
 
     "counter": false,
     "counter_channel": "804195383647141888",
@@ -42,7 +42,7 @@
     
     "status_type": "PLAYING",
     "status_url": "https://www.twitch.tv/#",
-    "bot_status": ["<help | #Nemesis"],
+    "bot_status": ["<help | #NemesisOT"],
     "status_change_interval": "2",
     
     "welcome_message_enabled": false,
